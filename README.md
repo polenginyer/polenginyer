@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Pol Ramon-Canyameres 👋
+
+## About Me
+I'm a Telecom Electronics and Robotics Engineer based in Barcelona.
+
+## 📫 Get in Touch
+Feel free to reach out via [Email](pol.ramoncanyameres@gmail.com) or connect with me on [LinkedIn](pol-ramon-canyameres).
+
+Thank you for visiting my profile! 🚀
 
 <!--
 **polenginyer/polenginyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
