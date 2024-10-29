@@ -4,7 +4,7 @@
 I'm a Telecom Electronics and Robotics Engineer based in Barcelona.
 
 ## 📫 Get in Touch
-Feel free to reach out via [Email](pol.ramoncanyameres@gmail.com) or connect with me on [LinkedIn]([pol-ramon-canyameres](https://es.linkedin.com/in/pol-ramon-canyameres)).
+Feel free to reach out via [Email](pol.ramoncanyameres@gmail.com) or connect with me on [LinkedIn](https://es.linkedin.com/in/pol-ramon-canyameres).
 
 Thank you for visiting my profile! 🚀
 
